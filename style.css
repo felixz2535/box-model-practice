@@ -8,24 +8,39 @@
 
 #title {
     height: 100px;
+    width: 40%;
     background: yellow;
-    margin: 20px 100px auto;
-    
+    margin: auto;
+    margin-top: 3%;
+    padding: 4% 10%;
 }
 
 #subtitle {
     background: black;
     color: white;
-    margin-top: 20px;
-    margin-bottom: 40px;
-    margin-left: 100px;
-    margin-right: 100px;
+    height: 50%;
+    width: 40%;
+    margin: 3% auto;
+    margin-bottom: 9%;
+    padding: 2% 10%;
 }
 
 .topic {
     background: lightgray;
     display: inline;
-    margin: 95px;
-    
-    
+    height: 25%;
+    width: 75%;
+    margin: 9%;
+    padding: .5% 2%;
 }
+
+
+
+    
+    
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+    margin: 95px;
